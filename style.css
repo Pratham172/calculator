@@ -21,21 +21,21 @@ body{
     background:linear-gradient(45deg,#0a0a0a, #3a4452);
 }
 .calculator{
-    border:1px solid #717377;
+    border:0.0625rem solid #717377;
     padding:1.375rem;
     border-radius:1rem;
     background:transparent;
-    box-shadow:0px 0.1875rem 0.9375rem rgba(113,115,119,0.5);
+    box-shadow:0rem 0.1875rem 0.9375rem rgba(113,115,119,0.5);
 }
 
 input{
     width:90%;
     border:none;
-    padding:20px;
-    margin:20px;
+    padding:1.25rem;
+    margin:1.25rem;
     background:transparent;
-    box-shadow:0px 0.1875rem 0.9375rem rgba(255, 255, 255, 0.2);
-    font-size: 20px;
+    box-shadow:0rem 0.1875rem 0.9375rem rgba(255, 255, 255, 0.2);
+    font-size: 1.25rem;
     color:white;
     text-align:right;
 }
